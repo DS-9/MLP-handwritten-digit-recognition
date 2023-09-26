@@ -1,4 +1,4 @@
-# handwritten-digit-recognition
+# Handwritten Digit Recognition
 This project focuses on building a neural network models using python libraries such as scikit-learn, NumPy, Keras/ Pytorch and matplotlib to recognisze hand written digits.
 
 Dataset
