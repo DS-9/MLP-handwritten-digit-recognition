@@ -12,7 +12,7 @@ NumPy has been used to perform matrix and vector operations
 
 Keras has been used to construct and train a neural network
 
-Matplotlib has been used to view images of the digits
+Matplotlib has been used to view images of the digits  
 
 
 ##  Steps
