@@ -15,7 +15,7 @@ Keras has been used to construct and train a neural network
 Matplotlib has been used to view images of the digits  
 
 
-##  Steps
+##  Steps  
   
 1. First we split the dataset into training and test sets, then train a fully-connected neural network to recognize the digits.
 2. Next, we change the architecture and parameters to see how they influence the test score.
