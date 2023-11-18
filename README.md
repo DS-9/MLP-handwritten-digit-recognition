@@ -16,7 +16,7 @@ Matplotlib has been used to view images of the digits
 
 
 ##  Steps
-
+  
 1. First we split the dataset into training and test sets, then train a fully-connected neural network to recognize the digits.
 2. Next, we change the architecture and parameters to see how they influence the test score.
 3. Once we are satisfied with our model's performance, we dump the trained weights and biases from the model as NumPy arrays for each layer.
