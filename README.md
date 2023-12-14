@@ -4,7 +4,7 @@ This project focuses on building a neural network models using python libraries 
 ## Dataset                       
   
 The Optical recognition of handwritten digits dataset has been used to build this project. This dataset consists of 8x8 grayscale images of hand-written digits sorted into 0-9 classes.
-
+  
 ## Libraries   
 Scikit-learn has been used to obtain the dataset and split the data into training and test sets  
 
